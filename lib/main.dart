@@ -19,7 +19,7 @@ class Sandbox extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Sandbox'),
+        title: const Text('Sandbox my'),
         backgroundColor: Colors.grey,
       ),
       body: Row(
